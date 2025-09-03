@@ -8,23 +8,20 @@ Code, coffee, repeat ☕💻 — that’s pretty much the routine. I like turnin
 
 ---
 
-## ⚡ Tech Stack  
+## 
 - **Languages:** PHP, SQL, JavaScript, CSS, Python, C#, C, C++  
 - **Currently exploring:** Flutter & Dart  
 - **Design / Tools:** Figma, Git  
 
 ---
 
-## 💻 Languages I Use  
+## ⚡ Tech Stack  
 
-### 🌐 Web 
+### 🌐 Language I use 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-
-### 🖥️ Programming 
-<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
