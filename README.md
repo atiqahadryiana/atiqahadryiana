@@ -2,7 +2,7 @@
 
 Code, coffee, repeat ☕💻 — that’s pretty much the routine. I like turning ideas into working projects and picking up new tech along the way.  
 
-- 🌱 Currently learning: **Flutter & Dart**  
+- 🌱 Currently study at Universiti Tun Hussein Onn Malaysia 
 - 🔧 Working on: personal projects + experiments  
 - 🎯 Goal: keep improving as a developer every day  
 
