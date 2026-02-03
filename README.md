@@ -9,7 +9,7 @@ Code, coffee, repeat ☕💻 — that’s pretty much the routine. I like turnin
 ---
 
 ## 
-- **Languages:** PHP, SQL, JavaScript, CSS, Python, C#, C, C++  
+- **Languages:** PHP, SQL, JavaScript, CSS, Python, C#, C, C++, Java
 - **Currently exploring:** Flutter & Dart  
 - **Design / Tools:** Figma, Git  
 
