@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Atiqah Adryiana  
+# 👋 Hey, I’m Adryiana  
 
 Code, coffee, repeat ☕💻 — that’s pretty much the routine. I like turning ideas into working projects and picking up new tech along the way.  
 
